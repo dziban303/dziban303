@@ -6,9 +6,9 @@
 ###### ~~Markdown~~
 
 
-![](https://komarev.com/ghpvc/?username=dziban303&color=yellow&style=flat&label=Mistakes+made+≥)
-![](https://img.shields.io/twitter/follow/dziban303?color=d5b530&label=%40dziban303&logo=twitter&logoColor=%23ffff00&style=plastic)
-![Twitter Follow](https://img.shields.io/twitter/follow/dziban303?color=d5b530&label=%40dziban303&logo=twitter&logoColor=%23ffff00&style=plastic)
+![](https://komarev.com/ghpvc/?username=dziban303&color=yellow&style=plastic&label=Mistakes+made+≥)
+
+<a href="https://twitter.com/dziban303/" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dziban303?color=d5b530&label=%40dziban303&logo=twitter&logoColor=%23ffff00&style=plastic"></a>
 <!--
 **dziban303/dziban303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

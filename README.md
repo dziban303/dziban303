@@ -6,7 +6,7 @@
 _Here come the badges!_<br>
 ![](https://komarev.com/ghpvc/?username=dziban303&color=yellow&style=plastic&label=Mistakes+made+≥)
 <p>
-<div style="font-family:'Cascadia Code','Cascadia Mono','Hack','DejaVu Mono','Bitstream Vera Sans Mono';color:blue"><h4 style="font-family:'Cascadia Code','Cascadia Mono','Hack','DejaVu Mono','Bitstream Vera Sans Mono';color:blue">social</h><br></div>
+<h4>social</h><br>
 <a href="https://twitter.com/dziban303/" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/dziban303?color=d5b530&label=%40dziban303&logo=twitter&logoColor=%23ffff00&style=for-the-badge"></a><br>
 <p><a href="https://tropicalweather.reddit.com/" target="_blank"><img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/TropicalWeather?color=4487c4&logo=reddit&logoColor=5597d4&style=for-the-badge&label=%2Fr%2FTropicalWeather"></a><br>
 <a href="https://warshipporn.reddit.com/" target="_blank"><img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/WarshipPorn?color=3176d2&logo=reddit&logoColor=navy&style=for-the-badge&label=%2Fr%2FWarshipPorn"></a><br>

@@ -1,8 +1,8 @@
 
       <svg
         width="300"
-        height="350"
-        viewBox="0 0 300 350"
+        height="375"
+        viewBox="0 0 300 375"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -125,8 +125,8 @@
       <g class="stagger" style="animation-delay: 100ms">
         <path
           data-testid="lang-pie"
-          size="84.27129281506261"
-          d="M 150 100 L 240 100 A 90 90 0 1 1 199.51264728870166 24.84351153450139 Z"
+          size="59.02789842420948"
+          d="M 150 100 L 240 100 A 90 90 0 1 1 74.09513644603639 51.64245985521837 Z"
           fill="#663399"
         />
       </g>
@@ -134,18 +134,45 @@
       <g class="stagger" style="animation-delay: 200ms">
         <path
           data-testid="lang-pie"
-          size="15.657657124248795"
-          d="M 150 100 L 199.51264728870166 24.84351153450139 A 90 90 0 0 1 239.9991031900136 99.59822270686253 Z"
-          fill="#3572A5"
+          size="25.23621376808478"
+          d="M 150 100 L 74.09513644603639 51.64245985521837 A 90 90 0 0 1 199.47873375975934 24.821180472616817 Z"
+          fill="#178600"
         />
       </g>
     
       <g class="stagger" style="animation-delay: 300ms">
         <path
           data-testid="lang-pie"
-          size="0.0710500606885935"
-          d="M 150 100 L 239.9991031900136 99.59822270686253 A 90 90 0 0 1 240 100.00000000000006 Z"
-          fill="#384d54"
+          size="10.917178542002445"
+          d="M 150 100 L 199.47873375975934 24.821180472616817 A 90 90 0 0 1 235.906323130617 73.1652530070057 Z"
+          fill="#3572A5"
+        />
+      </g>
+    
+      <g class="stagger" style="animation-delay: 400ms">
+        <path
+          data-testid="lang-pie"
+          size="2.389745406882838"
+          d="M 150 100 L 235.906323130617 73.1652530070057 A 90 90 0 0 1 238.95390473444346 86.31779138824591 Z"
+          fill="#3178c6"
+        />
+      </g>
+    
+      <g class="stagger" style="animation-delay: 500ms">
+        <path
+          data-testid="lang-pie"
+          size="1.5276275072717547"
+          d="M 150 100 L 238.95390473444346 86.31779138824591 A 90 90 0 0 1 239.85571208871 94.90578710389325 Z"
+          fill="#e34c26"
+        />
+      </g>
+    
+      <g class="stagger" style="animation-delay: 600ms">
+        <path
+          data-testid="lang-pie"
+          size="0.9013363515486988"
+          d="M 150 100 L 239.85571208871 94.90578710389325 A 90 90 0 0 1 240 99.99999999999997 Z"
+          fill="#f1e05a"
         />
       </g>
     
@@ -157,21 +184,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 84.27%
+        CSS 59.03%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#178600" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C# 25.24%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 15.66%
+        Python 10.92%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#384d54" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dockerfile 0.07%
+        TypeScript 2.39%
+      </text>
+    </g>
+  </g><g transform="translate(0, 25)">
+    <g class="stagger" style="animation-delay: 600ms">
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        HTML 1.53%
+      </text>
+    </g>
+  </g><g transform="translate(0, 50)">
+    <g class="stagger" style="animation-delay: 750ms">
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        JavaScript 0.90%
       </text>
     </g>
   </g></g>

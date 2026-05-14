@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Dziban303's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 35, Total Commits  (last year) : 0, Total PRs: 370, Total PRs Merged: 322, Merged PRs Percentage: 87.03, Total PRs Reviewed: 0, Total Issues: 190, Total Discussions Started: 5, Total Discussions Answered: 0, Contributed to (last year): 40</desc>
+        <desc id="descId">Total Stars Earned: 35, Total Commits  (last year) : 0, Total PRs: 370, Total PRs Merged: 323, Merged PRs Percentage: 87.30, Total PRs Reviewed: 0, Total Issues: 190, Total Discussions Started: 5, Total Discussions Answered: 0, Contributed to (last year): 40</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >322</text>
+      >323</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >87.03 %</text>
+      >87.30 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">

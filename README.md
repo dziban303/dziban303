@@ -1,4 +1,3 @@
-[![dziban's GitHub stats](https://github-readme-stats.vercel.app/api?username=dziban303&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dziban303&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=dziban303&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dziban303&layout=pie&langs_count=10&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=dziban303&layout=pie&langs_count=10&theme=tokyonight)
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<!--![Stats](./profile/stats.svg)-->
